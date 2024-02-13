@@ -11,7 +11,7 @@ a modo de portafolio.
 
 ### Programas
 
-**Apache Netbeans**
+**Apache****Netbeans**
 
 ![nb_logo](https://github.com/JuanEraso23/APOIII/assets/144852394/c643765f-6565-4ddd-9f9b-18ffcd175577)
 
@@ -23,9 +23,9 @@ a modo de portafolio.
 
 2. Presiona la opción "Download".
 
-![Captura de pantalla_20230921_093554](https://github.com/JuanEraso23/APOII/assets/144852394/0d5d6a3a-3bdb-42e9-848a-b1c400e22f3a)
+![Captura de pantalla_20240212_082631](https://github.com/JuanEraso23/APOIII/assets/144852394/cee67e70-b518-42d8-aee3-f2945c215f44)
 
-3. Presiona la opción "Download x86_64".
+3. Selecciona una de las opciones en "Installers And Packages".
 
 ![Captura de pantalla_20230921_094130](https://github.com/JuanEraso23/APOII/assets/144852394/157499c8-1b34-4d20-868d-ff9f14355ba5)
 
