@@ -72,7 +72,7 @@ public class Taller1 {
                     */
                     int n=misTareas.size();
                     for(int i=0; i<n-1; i++) {
-                        for(int j=i+1; j<n; j++) {
+                        for(int j=0; j<n-i-1; j++) {
                             if(misTareas.get(j).getPrioridad() < misTareas.get(j+1).getPrioridad()) {
                                 //Reorganizar las tareas en orden descendente
                                 Tarea temp=misTareas.get(j);
