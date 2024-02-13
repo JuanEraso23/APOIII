@@ -1,87 +1,58 @@
 # APOIII
-La finalidad de esta práctica es actualizar la información de todo el proyecto de forma colaborativa
-=======
-![Logo Java](https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png))
 
-# Titulo del Proyecto
+Curso de Algoritmos y Programacion III.
 
+## Descripción
+Registro de Actividades.
 
-## Proposito del sitio
+Se hizo un guardado rapido de los codigos realizados dentro la asignatura APOII 
+a lo largo del segundo semestre de la Universidad Mariana con el objetivo de tener registro de ellos 
+a modo de portafolio.
 
-Estas instrucciones le permitirán obtener una copia del proyecto en funcionamiento en su máquina local para fines de desarrollo y prueba. Consulte implementación para obtener notas sobre cómo implementar el proyecto en un sistema en vivo.
+### Programas
 
-### Requisitos previos
+**Eclipse**
 
-Qué cosas necesitas para instalar el software y cómo instalarlas
-
-```
-Give examples
-```
+![eclipse-800x188](https://github.com/JuanEraso23/APOII/assets/144852394/26e81b2c-305a-4582-9d4b-221266f61049)
 
 ### Instalación
 
-Una serie de ejemplos paso a paso que le indican cómo ejecutar un entorno de desarrollo.
+1. Ingresa a la página oficial de Eclipse.
 
-Di cuál será el paso.
+[anchor](https://www.eclipse.org/downloads/)
 
-```
-Give the example
-```
+2. Presiona la opción "Download".
 
-Y repetir
+![Captura de pantalla_20230921_093554](https://github.com/JuanEraso23/APOII/assets/144852394/0d5d6a3a-3bdb-42e9-848a-b1c400e22f3a)
 
-```
-until finished
-```
+3. Presiona la opción "Download x86_64".
 
-Termine con un ejemplo de cómo sacar algunos datos del sistema o usarlos para una pequeña demostración.
+![Captura de pantalla_20230921_094130](https://github.com/JuanEraso23/APOII/assets/144852394/157499c8-1b34-4d20-868d-ff9f14355ba5)
 
-## Ejecutando las pruebas
+4. Presiona la opción "Download".
 
-Explicar cómo ejecutar las pruebas automatizadas para este sistema.
-
-### Dividir en pruebas de principio a fin
-
-Explique qué prueban estas pruebas y por qué.
-
-```
-Give an example
-```
-
-### Y pruebas de estilo de codificación.
-
-Explique qué prueban estas pruebas y por qué.
-
-```
-Give an example
-```
+![Captura de pantalla_20230921_094341](https://github.com/JuanEraso23/APOII/assets/144852394/19b85cd8-30c7-448e-8d4b-171914a3f9cb)
 
 ## Despliegue (Deployment)
 
-Agregue notas adicionales sobre cómo implementar esto en un sistema en vivo
-
+Serie de ejercicios desarrollados con el IDE Netbeans a lo largo del segundo semestre, 
+cuya tematica fue impartida por el docente a cargo de la asignatura "Parra" 
+al cual se le otorga su debido agradecimiento.
 
 ## Construido con
 
-Dropwizard : el marco web utilizado
-Maven - Gestión de dependencias
-ROMA : se utiliza para generar canales RSS
+Eclipse: Programa de Desarrollo Java.
 
 ## Versionado
 
-Usamos Git para el control de versiones. Para conocer las versiones disponibles, consulte las etiquetas en este repositorio .
+Eclipse (Versión 2022-12).
 
-## Autores
+## Autor(es)
 
-* **Gustavo Sánchez** 
-
-
-## Licencia
-
-Este proyecto tiene la licencia MIT; consulte el archivo LICENSE.md para obtener más detalles.
+Juan Eraso, 
+Jaider Narvaèz,
+Miguel Zambrano.
 
 ## Expresiones de gratitud (Acknowledgments)
 
-* Un consejo para cualquiera cuyo código se haya utilizado
-* Inspiración
-* etc
+* Aprende de poco a poco para llegar lejos...
