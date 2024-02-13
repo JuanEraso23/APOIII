@@ -5,21 +5,21 @@ Curso de Algoritmos y Programacion III.
 ## Descripción
 Registro de Actividades.
 
-Se hizo un guardado rapido de los codigos realizados dentro la asignatura APOII 
-a lo largo del segundo semestre de la Universidad Mariana con el objetivo de tener registro de ellos 
+Se hizo un guardado de los codigos de cada taller realizado dentro la asignatura APOIII 
+a lo largo del tercer semestre de la Universidad Mariana con el objetivo de tener registro de ellos 
 a modo de portafolio.
 
 ### Programas
 
 **Eclipse**
 
-![eclipse-800x188](https://github.com/JuanEraso23/APOII/assets/144852394/26e81b2c-305a-4582-9d4b-221266f61049)
+![nb_logo](https://github.com/JuanEraso23/APOIII/assets/144852394/c643765f-6565-4ddd-9f9b-18ffcd175577)
 
 ### Instalación
 
-1. Ingresa a la página oficial de Eclipse.
+1. Ingresa a la página oficial de NetBeans.
 
-[anchor](https://www.eclipse.org/downloads/)
+[anchor](https://netbeans.apache.org/front/main/)
 
 2. Presiona la opción "Download".
 
