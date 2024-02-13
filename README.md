@@ -26,6 +26,7 @@ a modo de portafolio.
 ![Captura de pantalla_20240212_082631](https://github.com/JuanEraso23/APOIII/assets/144852394/cee67e70-b518-42d8-aee3-f2945c215f44)
 
 3. Selecciona una de las opciones en "Installers And Packages".
+ 
  **(En mi caso fue "Apache-NetBeans-20r1-bin-windows-x64.exe (SHA-512, PGP ASC)")**
    
 ![Captura de pantalla_20240212_083031](https://github.com/JuanEraso23/APOIII/assets/144852394/6442027d-04c9-49fd-9706-e5bbc9d23f55)
