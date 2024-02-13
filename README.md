@@ -26,8 +26,9 @@ a modo de portafolio.
 ![Captura de pantalla_20240212_082631](https://github.com/JuanEraso23/APOIII/assets/144852394/cee67e70-b518-42d8-aee3-f2945c215f44)
 
 3. Selecciona una de las opciones en "Installers And Packages".
-
-![Captura de pantalla_20230921_094130](https://github.com/JuanEraso23/APOII/assets/144852394/157499c8-1b34-4d20-868d-ff9f14355ba5)
+   (En mi caso fue "Apache-NetBeans-20r1-bin-windows-x64.exe (SHA-512, PGP ASC)")
+   
+![Captura de pantalla_20240212_083031](https://github.com/JuanEraso23/APOIII/assets/144852394/6442027d-04c9-49fd-9706-e5bbc9d23f55)
 
 4. Presiona la opción "Download".
 
