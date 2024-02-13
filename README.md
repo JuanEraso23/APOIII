@@ -1,6 +1,6 @@
 # APOIII
 
-Curso de Algoritmos y Programacion III.
+Curso de Algoritmos y Programación III.
 
 ## Descripción
 Registro de Actividades.
@@ -26,17 +26,17 @@ a modo de portafolio.
 ![Captura de pantalla_20240212_082631](https://github.com/JuanEraso23/APOIII/assets/144852394/cee67e70-b518-42d8-aee3-f2945c215f44)
 
 3. Selecciona una de las opciones en "Installers And Packages".
-   (En mi caso fue "Apache-NetBeans-20r1-bin-windows-x64.exe (SHA-512, PGP ASC)")
+(En mi caso fue "Apache-NetBeans-20r1-bin-windows-x64.exe (SHA-512, PGP ASC)")
    
 ![Captura de pantalla_20240212_083031](https://github.com/JuanEraso23/APOIII/assets/144852394/6442027d-04c9-49fd-9706-e5bbc9d23f55)
 
-4. Presiona la opción "Download".
+4. Selecciona el primer link.
 
-![Captura de pantalla_20230921_094341](https://github.com/JuanEraso23/APOII/assets/144852394/19b85cd8-30c7-448e-8d4b-171914a3f9cb)
+![Captura de pantalla_20240212_083241](https://github.com/JuanEraso23/APOIII/assets/144852394/af0ae85d-bbc8-45f5-8a91-e272141244a4)
 
 ## Despliegue (Deployment)
 
-Serie de ejercicios desarrollados con el IDE Netbeans a lo largo del segundo semestre, 
+Serie de ejercicios desarrollados con el IDE Apache Netbeans a lo largo del segundo semestre, 
 cuya tematica fue impartida por el docente a cargo de la asignatura "Parra" 
 al cual se le otorga su debido agradecimiento.
 
@@ -46,13 +46,11 @@ Eclipse: Programa de Desarrollo Java.
 
 ## Versionado
 
-Eclipse (Versión 2022-12).
+Apache Netbeans (Versión 20).
 
 ## Autor(es)
 
-Juan Eraso, 
-Jaider Narvaèz,
-Miguel Zambrano.
+Juan Eraso.
 
 ## Expresiones de gratitud (Acknowledgments)
 
