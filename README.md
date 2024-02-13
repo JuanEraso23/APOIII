@@ -11,13 +11,13 @@ a modo de portafolio.
 
 ### Programas
 
-**Eclipse**
+**Apache Netbeans**
 
 ![nb_logo](https://github.com/JuanEraso23/APOIII/assets/144852394/c643765f-6565-4ddd-9f9b-18ffcd175577)
 
 ### Instalación
 
-1. Ingresa a la página oficial de NetBeans.
+1. Ingresa a la página oficial de Apache NetBeans.
 
 [anchor](https://netbeans.apache.org/front/main/)
 
