@@ -42,7 +42,7 @@ al cual se le otorga su debido agradecimiento.
 
 ## Construido con
 
-Eclipse: Programa de Desarrollo Java.
+Apache Netbeans: Programa de Desarrollo Java.
 
 ## Versionado
 
