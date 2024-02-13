@@ -11,7 +11,7 @@ a modo de portafolio.
 
 ### Programas
 
-**Apache****Netbeans**
+**Apache Netbeans**
 
 ![nb_logo](https://github.com/JuanEraso23/APOIII/assets/144852394/c643765f-6565-4ddd-9f9b-18ffcd175577)
 
