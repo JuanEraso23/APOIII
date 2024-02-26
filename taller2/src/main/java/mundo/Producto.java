@@ -164,7 +164,7 @@ public class Producto {
         }
     }
 
-    public void eliminarProducto(int id_Producto) {
+    public void eliminarProducto() {
     System.out.println("========= Eliminar Producto ===========");
     System.out.println("Digite el ID del Producto a eliminar");
 
